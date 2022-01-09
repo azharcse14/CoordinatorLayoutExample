@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinatorLayout-Example</string>
+    <string name="layout_based">Layout Based</string>
+    <string name="scroll_based">Scroll Based</string>
+</resources>
