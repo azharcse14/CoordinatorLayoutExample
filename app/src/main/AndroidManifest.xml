@@ -10,11 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CoordinatorLayoutExample">
         <activity
-            android:name=".ScrollBasedActivtiy"
-            android:exported="true" />
+            android:name=".ScrollBasedActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CoordinatorLayoutExample.NoActionBar"/>
         <activity
-            android:name=".LayoutBasedActivtiy"
-            android:exported="true" />
+            android:name=".LayoutBasedActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CoordinatorLayoutExample.NoActionBar"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
