@@ -16,4 +16,6 @@ class ScrollBasedActivity : AppCompatActivity() {
         // You can add the code for your FAB also.
     }
 
+
+
 }
